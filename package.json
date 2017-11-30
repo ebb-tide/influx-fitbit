@@ -1,0 +1,20 @@
+{
+  "fitbit": {
+    "appUUID": "edfd5df2-329e-4d6c-8db0-2d476a8275ea",
+    "appType": "app",
+    "appDisplayName": "InfluxDB",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "#03a9f4",
+    "requestedPermissions": [
+      "access_internet",
+      "access_heart_rate",
+      "run_background",
+      "access_activity"
+    ],
+    "i18n": {
+      "en": {
+        "name": "InfluxDB"
+      }
+    }
+  }
+}
